@@ -32,6 +32,8 @@ Dashboard Design:
 
 https://www.canva.com/design/DAEsItYC8n0/iQzOgeVrlPny7veligty7w/view?utm_content=DAEsItYC8n0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
+https://github.com/ZishanSayyed/MCU-Movies-Analysis-Using-Power-Bi/issues/2#issue-1045494851
+
 
 
 
